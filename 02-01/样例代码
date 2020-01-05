@@ -3,3 +3,16 @@
 「各位要调整字体大小请这样做」
 - 点击 Options，选择set default font
 - 在里面选择好自己要的字体和大小之后，重新点击Option，点击 Save Options
+
+
+Class Main {
+    main(): IO {(new IO).out_string("Hello world!\n")};
+    
+};
+解释一下，一个cl文件要用Main class，不同class用 ';' 分隔开，即使只有一个，也要在末尾加上';'
+每个Class 里面要有个main 方法，这个就是Class的启动入口，可以有参数（这个demo没有参数），也要在末尾加上';'
+
+: IO 的意思是，返回值 是IO对象
+new IO 表示新建一个IO对象，其中out_string就是要输出的内容
+
+有些朋友说，斜杠和反斜杠记不清，这样，我教你一个口诀： 斜率为正的就是斜杠，斜率为负的就是反斜杠
