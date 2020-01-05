@@ -13,3 +13,5 @@
 > 不要觉得难哦，这只是编译原理系列的第一门课的简化版，详情看这个「有大佬已经说了自己的看法和观点」
 斯坦福大学编译原理课程质量怎么样？ - RednaxelaFX的回答 - 知乎
 https://www.zhihu.com/question/28679215/answer/43883727
+
+> https://github.com/tuituji/Cool-Compiler 某位大佬自己写的课程代码，正确性还没有验证，我自己也会写
